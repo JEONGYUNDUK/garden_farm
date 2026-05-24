@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">덕앤플라워 농원 플레이스홀더</title>
+  <desc id="desc">들판과 창고, 화분 진열 공간을 단순한 형태로 표현한 브랜드용 임시 이미지</desc>
+  <rect width="1200" height="900" rx="48" fill="#efe7da" />
+  <rect x="72" y="72" width="1056" height="756" rx="36" fill="#f8f3ea" />
+  <path d="M120 650C220 540 340 500 470 540C580 574 670 640 790 640C885 640 984 597 1080 500V792H120V650Z" fill="#c4d0b6" />
+  <path d="M120 704C255 604 370 586 470 618C612 664 700 740 840 740C930 740 1012 705 1080 648V792H120V704Z" fill="#97a97c" />
+  <circle cx="920" cy="210" r="58" fill="#e7d38c" />
+  <path d="M260 580H910" stroke="#6b7a54" stroke-width="18" stroke-linecap="round" />
+  <path d="M380 580V450" stroke="#6b7a54" stroke-width="18" stroke-linecap="round" />
+  <path d="M560 580V390" stroke="#6b7a54" stroke-width="18" stroke-linecap="round" />
+  <path d="M740 580V468" stroke="#6b7a54" stroke-width="18" stroke-linecap="round" />
+  <path d="M870 610C918 574 970 554 1038 548V676H870V610Z" fill="#d9c3a5" />
+  <path d="M854 564 952 516 1054 564" fill="#8d6a4d" />
+  <rect x="930" y="588" width="42" height="88" rx="8" fill="#b37d51" />
+  <circle cx="302" cy="522" r="44" fill="#89a870" />
+  <circle cx="362" cy="488" r="38" fill="#72925f" />
+  <circle cx="426" cy="518" r="42" fill="#9dbe84" />
+</svg>

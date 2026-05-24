@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">농원 전경 플레이스홀더</title>
+  <desc id="desc">햇살 아래 넓은 밭과 식재 라인을 단순화한 임시 갤러리 이미지</desc>
+  <rect width="800" height="600" fill="#f7f0df" />
+  <rect y="0" width="800" height="300" fill="#f3dfab" />
+  <circle cx="618" cy="124" r="58" fill="#e8c56b" />
+  <path d="M0 344C92 292 192 278 306 304C406 328 488 380 594 380C666 380 734 356 800 310V600H0V344Z" fill="#b7c8a1" />
+  <path d="M0 408C106 372 206 370 306 396C430 430 520 488 640 488C700 488 754 470 800 444V600H0V408Z" fill="#8ea570" />
+  <path d="M168 392H590" stroke="#6f8257" stroke-width="14" stroke-linecap="round" />
+  <path d="M242 392V312" stroke="#6f8257" stroke-width="14" stroke-linecap="round" />
+  <path d="M358 392V278" stroke="#6f8257" stroke-width="14" stroke-linecap="round" />
+  <path d="M474 392V330" stroke="#6f8257" stroke-width="14" stroke-linecap="round" />
+</svg>

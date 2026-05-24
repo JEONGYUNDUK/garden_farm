@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">식물 고르기 플레이스홀더</title>
+  <desc id="desc">화분과 식재가 진열된 공간에서 천천히 둘러보는 분위기를 표현한 임시 갤러리 이미지</desc>
+  <rect width="800" height="600" fill="#f5efe3" />
+  <rect x="72" y="350" width="656" height="144" rx="28" fill="#d9c8ae" />
+  <rect x="122" y="262" width="92" height="108" rx="18" fill="#b47c50" />
+  <rect x="242" y="232" width="92" height="138" rx="18" fill="#8b603e" />
+  <rect x="362" y="250" width="92" height="120" rx="18" fill="#a97345" />
+  <rect x="482" y="222" width="92" height="148" rx="18" fill="#93633e" />
+  <circle cx="168" cy="248" r="42" fill="#7ba577" />
+  <circle cx="288" cy="214" r="52" fill="#6e9a68" />
+  <circle cx="408" cy="226" r="46" fill="#8bb681" />
+  <circle cx="528" cy="202" r="58" fill="#5f8d59" />
+  <path d="M646 412C620 370 582 346 542 334C552 360 552 386 540 412Z" fill="#c97961" />
+</svg>

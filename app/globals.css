@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #f6f1e7;
+  --foreground: #1f2a1f;
+  --panel: rgba(255, 251, 245, 0.78);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(circle at top left, rgba(177, 197, 169, 0.32), transparent 28rem),
+    linear-gradient(180deg, #f8f3ea 0%, #f6f1e7 100%);
+  color: var(--foreground);
+  font-family: "Pretendard", "Noto Sans KR", system-ui, sans-serif;
+}
