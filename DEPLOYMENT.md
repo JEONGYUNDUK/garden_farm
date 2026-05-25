@@ -8,6 +8,8 @@
 
 - GitHub Repository: `JEONGYUNDUK/garden_farm`
 - Production Branch: `main`
+- Vercel Project Name: `garden-farm`
+- Current Live URL: `https://garden-farm-rho.vercel.app`
 
 ## 3. Vercel 배포 설정값
 
@@ -133,6 +135,12 @@ Vercel이 GitHub 변경 감지
 - SEO description 반영 여부
 - GitHub `main` push 후 자동 재배포 여부
 
+현재 운영 URL:
+
+```text
+https://garden-farm-rho.vercel.app
+```
+
 참고:
 
 - 현재 사이트는 단일 페이지 랜딩 구조입니다.
@@ -162,6 +170,8 @@ Vercel이 GitHub 변경 감지
 - 2단계 인증 입력
 - Deploy 버튼 최종 승인
 - 배포 완료 후 실제 운영 링크 점검
+- 실제 전화번호, 카카오톡 링크, 지도 링크를 운영값으로 교체
+- 플레이스홀더 이미지를 실제 농원 사진으로 교체
 
 ## 13. 보안 주의사항
 
