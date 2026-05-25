@@ -10,6 +10,63 @@
 
 ---
 
+## Redesign Addendum
+
+This implementation now includes a full UI/UX redesign pass guided by the approved British-style garden centre moodboard. The codebase should keep its current static, data-driven architecture while updating the visual system and top-level layout for stronger brand perception.
+
+### Additional files to modify in this redesign pass
+
+- `app/globals.css`: replace the current light-gray palette with a white, ivory, sage, and dark-green system
+- `app/page.tsx`: rebalance section order and add persistent mobile CTA treatment if needed
+- `components/header.tsx`: rebuild as left menu, centered text logo, right utility links
+- `components/hero-section.tsx`: convert to large image hero with overlay copy and dual CTA
+- `components/highlights-section.tsx`: repurpose as the three main image cards below hero
+- `components/intro-section.tsx`: refine farm introduction into a more editorial split layout
+- `components/plant-category-section.tsx`: expand to four categories and unify card styling
+- `components/gallery-section.tsx`: push image-first layout and calmer overlay treatment
+- `components/guide-section.tsx`: tone down utility cards so they fit the premium layout
+- `components/news-section.tsx`: keep concise update cards with stronger spacing
+- `components/location-section.tsx`: combine visit guidance and inquiry actions in one structured contact section
+- `components/footer.tsx`: redesign to a dark footer with address, links, and copyright
+- `data/site.ts`: centralize revised hero copy, header utility links, feature cards, contact CTAs, and footer copy
+- `data/plants.ts`: add the fourth category and align category wording to the new brand voice
+- `lib/types.ts`: extend shared types for utility links, feature cards, and inquiry actions
+
+### Redesign implementation tasks
+
+### Task R1: Update the visual system and shared data types
+
+**Files:**
+- Modify: `app/globals.css`
+- Modify: `lib/types.ts`
+- Modify: `data/site.ts`
+- Modify: `data/plants.ts`
+
+Deliver a new color system and extend the data model so the UI can render header utility links, main image cards, and inquiry actions without hardcoding them in components.
+
+### Task R2: Rebuild the top of page experience
+
+**Files:**
+- Modify: `components/header.tsx`
+- Modify: `components/hero-section.tsx`
+- Modify: `components/highlights-section.tsx`
+
+Rework the top of the site into a white utility header, an image-led hero with overlay copy, and three prominent image cards for introduction, plant guidance, and directions.
+
+### Task R3: Refine the section layouts and footer
+
+**Files:**
+- Modify: `components/intro-section.tsx`
+- Modify: `components/plant-category-section.tsx`
+- Modify: `components/gallery-section.tsx`
+- Modify: `components/guide-section.tsx`
+- Modify: `components/news-section.tsx`
+- Modify: `components/location-section.tsx`
+- Modify: `components/footer.tsx`
+- Modify: `app/page.tsx`
+
+Bring all remaining sections into the same tone-and-manner, keep the page informational rather than commercial, and finish with a dark footer plus mobile-friendly contact actions.
+
 ## File Structure
 
 Planned files and responsibilities:

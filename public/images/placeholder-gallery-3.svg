@@ -1,15 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
   <title id="title">식물 고르기 플레이스홀더</title>
-  <desc id="desc">화분과 식재가 진열된 공간에서 천천히 둘러보는 분위기를 표현한 임시 갤러리 이미지</desc>
-  <rect width="800" height="600" fill="#f5efe3" />
-  <rect x="72" y="350" width="656" height="144" rx="28" fill="#d9c8ae" />
-  <rect x="122" y="262" width="92" height="108" rx="18" fill="#b47c50" />
-  <rect x="242" y="232" width="92" height="138" rx="18" fill="#8b603e" />
-  <rect x="362" y="250" width="92" height="120" rx="18" fill="#a97345" />
-  <rect x="482" y="222" width="92" height="148" rx="18" fill="#93633e" />
-  <circle cx="168" cy="248" r="42" fill="#7ba577" />
-  <circle cx="288" cy="214" r="52" fill="#6e9a68" />
-  <circle cx="408" cy="226" r="46" fill="#8bb681" />
-  <circle cx="528" cy="202" r="58" fill="#5f8d59" />
-  <path d="M646 412C620 370 582 346 542 334C552 360 552 386 540 412Z" fill="#c97961" />
+  <desc id="desc">화분과 식재가 놓인 공간에서 천천히 둘러보는 순간을 차분한 톤으로 표현한 임시 갤러리 이미지</desc>
+  <rect width="800" height="600" fill="#f5eee2" />
+  <rect x="64" y="342" width="672" height="152" rx="30" fill="#dcc9af" />
+  <rect x="118" y="258" width="98" height="112" rx="18" fill="#b27a4f" />
+  <rect x="244" y="228" width="98" height="142" rx="18" fill="#8c6140" />
+  <rect x="370" y="248" width="98" height="122" rx="18" fill="#a87649" />
+  <rect x="496" y="220" width="98" height="150" rx="18" fill="#936541" />
+  <circle cx="166" cy="242" r="44" fill="#7a9f74" />
+  <circle cx="292" cy="208" r="54" fill="#6b9365" />
+  <circle cx="418" cy="222" r="48" fill="#8bb280" />
+  <circle cx="544" cy="198" r="60" fill="#5f8758" />
+  <path d="M650 416C626 374 588 350 548 338C558 364 558 390 546 416Z" fill="#c57b60" />
+  <path d="M132 512C222 490 316 490 404 512" stroke="#ece4d8" stroke-width="10" stroke-linecap="round" opacity=".75" />
 </svg>

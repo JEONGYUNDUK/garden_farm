@@ -18,6 +18,31 @@ export type NavItem = {
 export type SiteHighlight = {
   label: string;
   value: string;
+  note: string;
+};
+
+export type UtilityLink = {
+  id: string;
+  label: string;
+  href: string;
+  kind: "phone" | "kakao" | "map" | "search";
+  external?: boolean;
+};
+
+export type FeatureCard = {
+  id: string;
+  title: string;
+  href: `#${SectionId}` | "#top";
+  image: string;
+  alt: string;
+};
+
+export type InquiryAction = {
+  id: string;
+  label: string;
+  href: string;
+  style: "solid" | "outline";
+  external?: boolean;
 };
 
 export type SectionCopy = {
@@ -30,12 +55,19 @@ export type SiteCopy = {
   name: string;
   subtitle: string;
   description: string;
+  headerNote: string;
+  utilityLinks: UtilityLink[];
   heroEyebrow: string;
   heroTitle: string;
+  heroSubtitle: string;
   heroBody: string;
   heroImageAlt: string;
   heroPrimaryCtaLabel: string;
   heroSecondaryCtaLabel: string;
+  heroOverlayEyebrow: string;
+  heroOverlayTitle: string;
+  heroOverlayBody: string;
+  featureCards: FeatureCard[];
   locationLabel: string;
   phone: string;
   directionsUrl: string;
@@ -52,6 +84,15 @@ export type SiteCopy = {
   newsSection: SectionCopy;
   locationSection: SectionCopy;
   locationDetail: string;
+  locationPanelEyebrow: string;
+  locationPanelTitle: string;
+  locationNotes: string[];
+  inquiryTitle: string;
+  inquiryDescription: string;
+  inquiryActions: InquiryAction[];
+  directionsCtaLabel: string;
+  kakaoCtaLabel: string;
+  footerCopyright: string;
 };
 
 export type PlantCategory = {
@@ -60,6 +101,7 @@ export type PlantCategory = {
   description: string;
   useCase: string;
   badge: string;
+  tone: string;
 };
 
 export type GalleryItem = {
@@ -67,6 +109,8 @@ export type GalleryItem = {
   title: string;
   description: string;
   image: string;
+  eyebrow: string;
+  feature?: boolean;
 };
 
 export type GuideItem = {

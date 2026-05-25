@@ -1,13 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
   <title id="title">창고 공간 플레이스홀더</title>
-  <desc id="desc">자재와 식물을 정리하는 창고 겸 준비 공간을 묘사한 임시 갤러리 이미지</desc>
-  <rect width="800" height="600" fill="#efe7da" />
-  <rect x="94" y="120" width="612" height="304" rx="28" fill="#d6c3ab" />
-  <path d="M118 130 400 54 682 130" fill="#8f6b4c" />
-  <path d="M120 142H680" stroke="#72533d" stroke-width="16" stroke-linecap="round" />
-  <rect x="162" y="188" width="112" height="176" rx="16" fill="#c48b5f" />
-  <rect x="316" y="188" width="112" height="176" rx="16" fill="#91ab77" />
-  <rect x="470" y="188" width="112" height="176" rx="16" fill="#6f8f60" />
-  <rect x="626" y="188" width="40" height="176" rx="16" fill="#a6b88f" />
-  <rect y="454" width="800" height="146" fill="#b29f87" />
+  <desc id="desc">정리된 창고와 준비 선반을 크림, 올리브, 흙빛 색조로 표현한 임시 갤러리 이미지</desc>
+  <rect width="800" height="600" fill="#efe5d7" />
+  <rect x="88" y="112" width="624" height="320" rx="30" fill="#dbcab4" />
+  <path d="M112 124 400 44 688 124" fill="#86644a" />
+  <path d="M112 136H688" stroke="#6f523d" stroke-width="16" stroke-linecap="round" />
+  <rect x="150" y="184" width="116" height="188" rx="18" fill="#be8456" />
+  <rect x="308" y="184" width="116" height="188" rx="18" fill="#98ae7f" />
+  <rect x="466" y="184" width="116" height="188" rx="18" fill="#728d60" />
+  <rect x="624" y="184" width="44" height="188" rx="18" fill="#b8c5a7" />
+  <rect y="456" width="800" height="144" fill="#b59f86" />
+  <path d="M174 474C254 452 336 450 414 470" stroke="#d9cdbd" stroke-width="10" stroke-linecap="round" opacity=".7" />
 </svg>

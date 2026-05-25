@@ -1,13 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
   <title id="title">농원 전경 플레이스홀더</title>
-  <desc id="desc">햇살 아래 넓은 밭과 식재 라인을 단순화한 임시 갤러리 이미지</desc>
-  <rect width="800" height="600" fill="#f7f0df" />
-  <rect y="0" width="800" height="300" fill="#f3dfab" />
-  <circle cx="618" cy="124" r="58" fill="#e8c56b" />
-  <path d="M0 344C92 292 192 278 306 304C406 328 488 380 594 380C666 380 734 356 800 310V600H0V344Z" fill="#b7c8a1" />
-  <path d="M0 408C106 372 206 370 306 396C430 430 520 488 640 488C700 488 754 470 800 444V600H0V408Z" fill="#8ea570" />
-  <path d="M168 392H590" stroke="#6f8257" stroke-width="14" stroke-linecap="round" />
-  <path d="M242 392V312" stroke="#6f8257" stroke-width="14" stroke-linecap="round" />
-  <path d="M358 392V278" stroke="#6f8257" stroke-width="14" stroke-linecap="round" />
-  <path d="M474 392V330" stroke="#6f8257" stroke-width="14" stroke-linecap="round" />
+  <desc id="desc">크림빛 하늘 아래 정돈된 밭과 식재 라인을 차분하게 표현한 임시 갤러리 이미지</desc>
+  <rect width="800" height="600" fill="#f4ebdd" />
+  <rect y="0" width="800" height="284" fill="#f7efe4" />
+  <ellipse cx="184" cy="136" rx="132" ry="62" fill="#efe2ca" />
+  <circle cx="602" cy="128" r="54" fill="#e6d19e" />
+  <path d="M0 336C104 286 212 276 322 300C434 326 530 380 638 380C700 380 754 364 800 332V600H0V336Z" fill="#ccd7bf" />
+  <path d="M0 408C112 370 216 366 322 392C458 426 556 484 680 484C728 484 770 474 800 456V600H0V408Z" fill="#90a57a" />
+  <path d="M144 392H584" stroke="#627352" stroke-width="14" stroke-linecap="round" />
+  <path d="M228 392V320" stroke="#627352" stroke-width="14" stroke-linecap="round" />
+  <path d="M346 392V286" stroke="#627352" stroke-width="14" stroke-linecap="round" />
+  <path d="M466 392V334" stroke="#627352" stroke-width="14" stroke-linecap="round" />
+  <path d="M108 510C204 480 300 480 392 502" stroke="#ebe3d7" stroke-width="10" stroke-linecap="round" opacity=".7" />
 </svg>
